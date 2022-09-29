@@ -217,9 +217,9 @@ html {
 @media (max-width:767px) {
     .header .main-nav > li> a {
         height: 40px;
-        font-size: 20px;
-        font-weight: 300;
-        padding: 0 10px;
+        font-size: 16px;
+        font-weight: 800;
+        padding: 0 5px;
     }
     .header .main-nav {
         width: 100%;
